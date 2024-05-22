@@ -1,4 +1,4 @@
-# landmodo.com-scrapper
+# landmodo.com-scrapper (uses playwright, json & re modules)
 
 This script scraps landmodo realestate website ("https://www.landmodo.com").
 
