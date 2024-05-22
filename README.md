@@ -9,7 +9,9 @@ This script scraps landmodo realestate website ("https://www.landmodo.com").
 -- Price per Acre
 -- WS Price
 
-- Script prepares all the information in JSON.. example response is 
+- Script prepares all the information in JSON.. example response is
+
+```json
 [
     {
     "acerage": "2.07",
